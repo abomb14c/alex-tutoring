@@ -1,0 +1,6 @@
+.intro-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    vertical-align: top;
+}
