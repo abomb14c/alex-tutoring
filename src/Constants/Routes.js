@@ -1,0 +1,12 @@
+// export const SIGN_UP = '/signup';
+// export const SIGN_IN = '/signin';
+// export const LANDING = '/';
+export const HOME = '/';
+// export const ACCOUNT = '/account';
+export const TESTIMONIALS = '/testimonials'
+export const CONTACT = '/contact'
+export const ABOUT_ME = '/about_me'
+export const RESOURCES = '/resources'
+export const BLOG = '/blog'
+// export const PASSWORD_FORGET = '/pw-forget';
+// export const LEAGUES = '/leagues'

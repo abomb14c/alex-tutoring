@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Route, NavLink, Link } from 'react-router-dom'
+import Navigation from '../Navigation/Navigation'
 import './App.css';
 
 class App extends Component {
@@ -7,10 +8,8 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
+          <Navigation />
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
       </div>
     );
   }

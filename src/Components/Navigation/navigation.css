@@ -1,0 +1,15 @@
+a {
+    padding-right: 20px;
+    text-decoration: none;
+    color: #fff;
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    padding-right: 20px;
+    text-decoration: none;
+    
+}
