@@ -7,17 +7,7 @@
   height: 150px;
   padding: 20px;
   color: white;
+  /* width: 100vw; */
 }
 
-.App-title {
-  font-size: 1.5em;
-}
 
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}

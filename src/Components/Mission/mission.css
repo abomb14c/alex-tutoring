@@ -1,0 +1,23 @@
+.mission {
+    background-color: #fff;
+    box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.30);
+    color: #292c31;
+    height: 200px;
+    margin-top: 10px;
+    width: 50vw;
+}
+
+.mission-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mission-hero {
+    font-size: 36px;
+}
+
+.mission-secondary {
+    font-size: 21px;
+    color: #94b4c6;
+}
