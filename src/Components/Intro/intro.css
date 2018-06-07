@@ -1,0 +1,36 @@
+.bold {
+    color: #94b4c6;
+}
+
+.intro {
+    background-color: #fff;
+    box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.30);
+    color: #292c31;
+    display: flex;
+    height: 270px;
+    margin-top: 50px;
+    text-align: left;
+    width: 60vw;
+}
+
+.intro-image {
+    background-image: url("../../assets/intro-pic.png");
+    background-size: 60%;
+    background-repeat: no-repeat;
+    height: 100%;
+    margin-top: 3%;
+    width: 40%;
+}
+
+.intro-text-container {
+    width: 60%;
+}
+
+.intro-header {
+    font-weight: 200;
+}
+
+.intro-text {
+    font-size: 18px;
+    font-weight: 200;
+}
